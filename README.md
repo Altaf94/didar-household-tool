@@ -25,10 +25,6 @@ npm install && npm run dev        # web UI
 python3 didar_household_tool.py   # CLI (see config.example.json)
 ```
 
-## Screenshots
-
-<!-- Add 2-3 screenshots here: docs/screenshots/*.png -->
-
 ## Notes
 
 - Tokens and config go in `config.json` or environment variables. Never commit them.
